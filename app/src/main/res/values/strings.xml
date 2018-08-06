@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="overview"> Overview</string>
+    <string name="hint_price">Enter price</string>
+    <string name="hint_item_name">Enter product name</string>
+    <string name="hint_quantity">Enter quantity</string>
+    <string name="hint_supplier_name">Enter supplier name</string>
+    <string name="hint_phone">Enter supplier phone</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_delete_all_entries">Delete All Items</string>
+
+    <string name="editor_activity_title_new_item">Add an item</string>
+
+
+    editor_activity_title_new_item
+</resources>
